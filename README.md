@@ -7,7 +7,8 @@
 
 ### Obstacles
 - 웹 배포를 위한 최종단계에서 터미널에 'heroku run python manage.py migrate' 명령어를 입력하면<br>
-'can't open file '/app/manage.py': [Errno 2] No such file or directory' 오류가 지속 돼 아직 해결하지 못했습니다.<br><br>
+'can't open file '/app/manage.py': [Errno 2] No such file or directory' 오류가 지속 돼 아직 해결하지 못했습니다.<br>
+![image](https://user-images.githubusercontent.com/99329555/197233820-bea7edba-4a9a-4fc0-989e-c58c66be4b09.png)<br><br>
 
 
 
